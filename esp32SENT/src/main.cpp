@@ -2,9 +2,9 @@
 #include <PubSubClient.h>
 
 // กำหนดข้อมูล Wi-Fi
-const char* ssid = "POCO";
+const char* ssid = "POCO";                                //////// test kub
 const char* password = "puntipong";
-// กำหนดข้อมูล MQTT
+// กำหนดข้อมูล MQTT 
 const char* mqttServer = "mqtt3.thingspeak.com";
 const int mqttPort = 1883;
 const char* clientID = "Ng0QIAUTASABAScRERYgDTM";        
