@@ -2,7 +2,7 @@
 #include <PubSubClient.h>
 
 // กำหนดข้อมูล Wi-Fi
-const char* ssid = "OAK";                                //////// test kub จารเชื่อผมเถอะครับ
+const char* ssid = "OAK";                                //////// test kub จารเชื่อผมเถอะครับ 4.36
 const char* password = "okas0163";
 // กำหนดข้อมูล MQTT 
 const char* mqttServer = "mqtt3.thingspeak.com";
